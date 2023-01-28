@@ -9,7 +9,8 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "lint": "eslint src --ext .ts,.tsx",
-    "lint:fix": "eslint src --ext .ts,.tsx --fix"
+    "lint:fix": "eslint src --ext .ts,.tsx --fix",
+    "lint:typescript": "tsc --noEmit"
   },
   "dependencies": {
     "@hookform/resolvers": "^2.9.10",
@@ -20,7 +21,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.42.1",
+    "scheduler": "^0.23.0",
     "styled-components": "^5.3.6",
+    "use-context-selector": "^1.4.1",
     "zod": "^3.20.2"
   },
   "devDependencies": {

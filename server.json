@@ -17,52 +17,12 @@
       "createdAt": "2023-01-25T14:02:36.763Z"
     },
     {
-      "id": 3,
-      "description": "Ignite Rocketseat",
+      "description": "iPhone 12 Mini (128Gb)",
+      "category": "Venda",
+      "price": 3599,
       "type": "outcome",
-      "category": "Formação",
-      "price": 1999,
-      "createdAt": "2023-01-25T14:02:36.763Z"
-    },
-    {
-      "description": "Desenvolvimento de Website",
-      "category": "venda",
-      "price": 3000,
-      "type": "income",
-      "createdAt": "2023-01-25T18:14:59.536Z",
-      "id": 4
-    },
-    {
-      "description": "Poupança",
-      "category": "Investimento",
-      "price": 100,
-      "type": "income",
-      "createdAt": "2023-01-25T18:18:25.354Z",
-      "id": 5
-    },
-    {
-      "description": "Iogurte de Banana",
-      "category": "Comida",
-      "price": 450,
-      "type": "outcome",
-      "createdAt": "2023-01-25T18:33:24.107Z",
-      "id": 6
-    },
-    {
-      "description": "Iphone 13",
-      "category": "Compra",
-      "price": 1050,
-      "type": "outcome",
-      "createdAt": "2023-01-25T18:34:17.991Z",
-      "id": 7
-    },
-    {
-      "description": "Pão",
-      "category": "Comida",
-      "price": 250,
-      "type": "outcome",
-      "createdAt": "2023-01-25T18:42:50.069Z",
-      "id": 8
+      "createdAt": "2023-01-28T11:16:40.334Z",
+      "id": 3
     }
   ]
 }
